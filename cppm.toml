@@ -1,0 +1,9 @@
+[package]
+   name = "md5"
+   version = "0.0.1"
+   description = "simple c++ md5 hash library"
+
+[[lib]]
+   name = "md5"
+   type = "static"
+   source = ["src/md5.cpp"]
