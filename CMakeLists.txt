@@ -10,7 +10,7 @@ cppm_compiler_option(DEFAULT)
 
 
 
-cppm_target_define(md5 SHARED 
+cppm_target_define(md5 STATIC 
 SOURCES 
 	src/md5.cpp)
 

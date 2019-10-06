@@ -2,6 +2,7 @@
    name = "md5"
    version = "0.0.1"
    description = "simple c++ md5 hash library"
+   git = "https://github.com/injae/md5"
 
 [[lib]]
    name = "md5"
